@@ -12,14 +12,10 @@
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/SINGHxTUSHAR/NextWordAI)
 
 
-
-
-
-
 # NextWordAI
+![Preview Image](https://github.com/SINGHxTUSHAR/NextWordAI/blob/3b63521de3d8cfc863b6631786d8b22c734f4ba8/preview.png)
 
 #### Project Overview:
-
 This project focuses on developing a deep learning model for predicting the next word in a given sequence of words using Long Short-Term Memory (LSTM) networks. LSTMs are particularly effective for sequence prediction tasks because they capture long-term dependencies in data. The model is trained on the text of Shakespeare's "Hamlet," providing a rich and complex dataset that challenges the model's predictive capabilities.
 
 The project utilizes advanced deep-learning techniques to enhance natural language processing capabilities, specifically in next-word prediction tasks. By leveraging LSTM networks, it captures intricate patterns and dependencies within text data, ultimately providing a tool for applications such as text auto-completion and interactive chatbots. The deployment through a web application allows for user-friendly interaction with the model, showcasing its practical utility in real-time scenarios.
